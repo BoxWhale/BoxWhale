@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+### Tools
+- [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)
+- [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#) 
+
 <!--
 **BoxWhale/BoxWhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
