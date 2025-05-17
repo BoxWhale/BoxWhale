@@ -19,16 +19,20 @@
 
 ## Interested to learn more about
 ### Engines
-[![MonoGame](https://img.shields.io/badge/MonoGame-Current_Focus-ED1C24?style=for-the-badge&logo=monogame&logoColor=white&labelColor=ED1C24&color=232323)](https://monogame.net/)
+[![MonoGame](https://img.shields.io/badge/MonoGame-ED1C24?style=for-the-badge&logo=monogame&logoColor=white&labelColor=ED1C24&color=232323)](https://monogame.net/)
 
 [![Roblox](https://img.shields.io/badge/Roblox--Studio-000000?style=for-the-badge&logo=robloxstudio&logoColor=white)](https://create.roblox.com/landing)
 
 ### Languages
-[![HLSL](https://img.shields.io/badge/HLSL-Current_Milestone-0096FF?style=for-the-badge&logo=directx&logoColor=white&labelColor=0096FF&color=232323)](https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl)
+[![HLSL](https://img.shields.io/badge/HLSL-0096FF?style=for-the-badge&logo=directx&logoColor=white&labelColor=0096FF&color=232323)](https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl)
+[![GLSL](https://img.shields.io/badge/GLSL-0055A4?style=for-the-badge&logoColor=white)](https://www.shadertoy.com/user/AstronDaeus)
 
-[![GLSL](https://img.shields.io/badge/GLSL-0055A4?style=for-the-badge&logo=opengl&logoColor=white)](https://www.shadertoy.com/user/AstronDaeus)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
+
+### Graphics API's
+![OpenGL](https://img.shields.io/badge/OpenGL-0055A4?style=for-the-badge&logo=opengl&logoColor=white)
+![DirectX](https://img.shields.io/badge/DirectX-000?style=for-the-badge&logoColor=fff)
 
 
 
