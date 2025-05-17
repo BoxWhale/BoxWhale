@@ -26,7 +26,7 @@
 ### Languages
 [![HLSL](https://img.shields.io/badge/HLSL-Current_Milestone-0096FF?style=for-the-badge&logo=directx&logoColor=white&labelColor=0096FF&color=232323)](https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl)
 
-![GLSL](https://img.shields.io/badge/GLSL-0055A4?style=for-the-badge&logo=opengl&logoColor=white)
+[![GLSL](https://img.shields.io/badge/GLSL-0055A4?style=for-the-badge&logo=opengl&logoColor=white)](https://www.shadertoy.com/user/AstronDaeus)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 
